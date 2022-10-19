@@ -1,18 +1,16 @@
 
 
-# requirements 
+### requirements 
 * python3
 * visual studio buildtools 
 
 
-# files
+### files
 * runner.py
 runs the python script and will access the c++ functiony
 
 
-# compile
-'''code
-python setup.py build
-'''
-# how to use
+### compile
+`python setup.py build`
+### how to use
 to run the c++ function from the python file you can run the runner.py file
