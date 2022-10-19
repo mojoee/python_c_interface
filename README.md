@@ -12,3 +12,7 @@ It will use the clang compiler on the test.cpp script
 * runner.py
 runs the python script and will access the c++ functiony
 
+
+#compile
+
+run the clang++ compiler in cli

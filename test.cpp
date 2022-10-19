@@ -1,4 +1,5 @@
-#include <cstdio>
+//#include <cstdio>
+#include <iostream>
 int main()
 {
     char name[100];printf("please input your name:");
