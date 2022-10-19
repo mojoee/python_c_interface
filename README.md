@@ -1,11 +1,8 @@
 
 
-
-
-# test
-to check if your machine is setup properly, you can run the test.bash file
-It will use the clang compiler on the test.cpp script
-
+# requirements 
+* python3
+* visual studio buildtools 
 
 
 # files
@@ -14,8 +11,8 @@ runs the python script and will access the c++ functiony
 
 
 # compile
-run the clang++ compiler in cli
-
-
+'''code
+python setup.py build
+'''
 # how to use
 to run the c++ function from the python file you can run the runner.py file
