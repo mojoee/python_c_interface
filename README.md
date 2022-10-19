@@ -13,6 +13,9 @@ It will use the clang compiler on the test.cpp script
 runs the python script and will access the c++ functiony
 
 
-#compile
-
+# compile
 run the clang++ compiler in cli
+
+
+# how to use
+to run the c++ function from the python file you can run the runner.py file
