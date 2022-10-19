@@ -14,5 +14,5 @@ int main() {
 
 
 extern "C" {
-	__declspec(dllexport) int* addition_c(int a_c, int b_c) {return addition(a_c, b_c);}
+	__declspec(dllexport) int addition_c(int a_c, int b_c) {return addition(a_c, b_c);}
 }
